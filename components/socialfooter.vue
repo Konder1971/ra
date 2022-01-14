@@ -1,13 +1,13 @@
 <template>
   <div class="socialFooter">
     <a href="https://www.linkedin.com/company/rightapplications" target="_blank" title="LinkedIn">
-      <img src="~/assets/images/linkedin-in.svg" alt>
+      <img src="~assets/images/linkedin-in.svg" alt>
     </a>
     <a href="https://www.facebook.com/rightapplications/" target="_blank" title="Facebook">
-      <img src="~/assets/images/facebook-f.svg" alt>
+      <img src="~assets/images/facebook-f.svg" alt>
     </a>
     <a href="https://twitter.com/rightapplicatio" target="_blank" title="Twitter">
-      <img src="~/assets/images/twitter.svg" alt>
+      <img src="~assets/images/twitter.svg" alt>
     </a>
   </div>
 </template>

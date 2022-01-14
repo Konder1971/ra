@@ -76,17 +76,17 @@
               target="_blank"
               title="Facebook"
             >
-              <img src="~/assets/images/facebook-f2.svg" alt>
+              <img src="~assets/images/facebook-f2.svg" alt>
             </nuxt-link>
             <nuxt-link to="https://twitter.com/rightapplicatio" target="_blank" title="Twitter">
-              <img src="~/assets/images/twitter2.svg" alt>
+              <img src="~assets/images/twitter2.svg" alt>
             </nuxt-link>
             <nuxt-link
               to="https://www.linkedin.com/company/rightapplications"
               target="_blank"
               title="LinkedIn"
             >
-              <img src="~/assets/images/linkedin-in2.svg" alt>
+              <img src="~assets/images/linkedin-in2.svg" alt>
             </nuxt-link>
           </div>
 

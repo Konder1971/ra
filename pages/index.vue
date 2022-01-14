@@ -56,15 +56,15 @@
       </div>
       <div class="section">
         <NuxtLink class="section-col" to="/about" title="">
-          <img src="~/assets/images/ic_1.png" alt="">
+          <img src="~assets/images/ic_1.png" alt="">
           <span>Our Team</span>
         </NuxtLink>
         <NuxtLink class="section-col" to="/expertise" title="">
-          <img src="~/assets/images/ic_2.png" alt="">
+          <img src="~assets/images/ic_2.png" alt="">
           <span>Expertise</span>
         </NuxtLink>
         <NuxtLink class="section-col" to="/clients" title="">
-          <img src="~/assets/images/ic_3.png" alt="">
+          <img src="~assets/images/ic_3.png" alt="">
           <span>Clients</span>
         </NuxtLink>
       </div>
@@ -127,7 +127,7 @@
           </NuxtLink>
         </div>
         <div class="section-col">
-          <img src="~/assets/images/pic-1ddd.png" alt="">
+          <img src="~assets/images/pic-1ddd.png" alt="">
         </div>
       </div>
     </div>
@@ -250,7 +250,7 @@
           </p>
         </div>
         <div class="section-col mapCenter">
-          <img src="~/assets/images/map_1-1.png" alt="">
+          <img src="~assets/images/map_1-1.png" alt="">
         </div>
         <div class="section-col europe">
           <h3>Europe</h3>

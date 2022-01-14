@@ -1,6 +1,6 @@
 <template>
   <NuxtLink to="/" title class="logo">
-    <img src="~/assets/images/logo_rightapplications.png" alt>
+    <img src="~assets/images/logo_rightapplications.png" alt>
     <em />
     <span>
       Right
