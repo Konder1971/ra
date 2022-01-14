@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/post/5", {data:[{post:{id:5,title:"Заголовок поста № 5",summary:"Короткое описание поста № 5",content:"\u003Ci\u003EКонтент поста №5\u003C\u002Fi\u003E",author:"Иван Пердыщенко",published:"02:27 - 22\u002F11\u002F2020"}}],fetch:{},mutations:[]});

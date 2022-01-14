@@ -1,0 +1,53 @@
+{
+  "Blogblocks": {
+    "description": "Auto imported from components/blogblocks.vue"
+  },
+  "Copyright": {
+    "description": "Auto imported from components/copyright.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/logo.vue"
+  },
+  "Navigationcategory": {
+    "description": "Auto imported from components/navigationcategory.vue"
+  },
+  "Navigations": {
+    "description": "Auto imported from components/navigations.vue"
+  },
+  "Navigationsfooter": {
+    "description": "Auto imported from components/navigationsfooter.vue"
+  },
+  "Posts": {
+    "description": "Auto imported from components/posts.vue"
+  },
+  "Socialfooter": {
+    "description": "Auto imported from components/socialfooter.vue"
+  },
+  "BannersBannerAbout": {
+    "description": "Auto imported from components/banners/bannerAbout.vue"
+  },
+  "BannersBannerBlog": {
+    "description": "Auto imported from components/banners/bannerBlog.vue"
+  },
+  "BannersBannerclients": {
+    "description": "Auto imported from components/banners/bannerclients.vue"
+  },
+  "BannersBannerExpertise": {
+    "description": "Auto imported from components/banners/bannerExpertise.vue"
+  },
+  "BannersBannerHome": {
+    "description": "Auto imported from components/banners/bannerHome.vue"
+  },
+  "BannersBannerprivacypolicy": {
+    "description": "Auto imported from components/banners/bannerprivacypolicy.vue"
+  },
+  "BannersBannerrequestaquote": {
+    "description": "Auto imported from components/banners/bannerrequestaquote.vue"
+  },
+  "BannersBannerwwd": {
+    "description": "Auto imported from components/banners/bannerwwd.vue"
+  }
+}
