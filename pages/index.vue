@@ -4,8 +4,7 @@
 
     <div class="sfd">
       <div class="header">
-        <h1>Software development company Rightapplications</h1>
-        <h2>New York City</h2>
+        <h1>Software development company Rightapplications<br />New York City</h1>
       </div>
       <div class="section">
         <div class="section-col">
