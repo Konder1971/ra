@@ -147,7 +147,7 @@
           :style="{
             'background-image':
               'url(' +
-              require('~/assets/images/portfolio/Foundry360.jpg') +
+              require('~/static/images/portfolio/Foundry360.jpg') +
               ')',
           }"
         >
@@ -162,7 +162,7 @@
           :style="{
             'background-image':
               'url(' +
-              require('~/assets/images/portfolio/Foundry360.jpg') +
+              require('~/static/images/portfolio/Foundry360.jpg') +
               ')',
           }"
         >
@@ -177,7 +177,7 @@
           :style="{
             'background-image':
               'url(' +
-              require('~/assets/images/portfolio/Foundry360.jpg') +
+              require('~/static/images/portfolio/Foundry360.jpg') +
               ')',
           }"
         >
@@ -192,7 +192,7 @@
           :style="{
             'background-image':
               'url(' +
-              require('~/assets/images/portfolio/Foundry360.jpg') +
+              require('~/static/images/portfolio/Foundry360.jpg') +
               ')',
           }"
         >
