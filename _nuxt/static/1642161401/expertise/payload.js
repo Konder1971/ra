@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/expertise", {data:[{}],fetch:{},mutations:[]});
