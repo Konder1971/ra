@@ -56,15 +56,15 @@
       </div>
       <div class="section">
         <NuxtLink class="section-col" to="/about" title="">
-          <img src="~assets/images/ic_1.png" alt="">
+          <img src="../assets/images/ic_1.png" alt="">
           <span>Our Team</span>
         </NuxtLink>
         <NuxtLink class="section-col" to="/expertise" title="">
-          <img src="@/assets/images/ic_2.png" alt="">
+          <img src="../assets/images/ic_2.png" alt="">
           <span>Expertise</span>
         </NuxtLink>
         <NuxtLink class="section-col" to="/clients" title="">
-          <img src="~/assets/images/ic_3.png" alt="">
+          <img src="../assets/images/ic_3.png" alt="">
           <span>Clients</span>
         </NuxtLink>
       </div>
