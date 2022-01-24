@@ -18,7 +18,8 @@ export default {
 <style scoped>
 .section-col {
   height: 200px;
-  background-color: cadetblue;
+  color: #000;
+  font-size: 32px;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
