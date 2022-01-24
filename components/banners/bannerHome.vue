@@ -1,7 +1,9 @@
 <template>
   <div class="bannerHome">
     <div class="section">
-      <div class="section-col">Banner Home</div>
+      <div class="section-col">
+        Banner Home
+      </div>
     </div>
   </div>
 </template>
@@ -15,7 +17,8 @@ export default {
 
 <style scoped>
 .section-col {
-  height: 250px;
+  height: 200px;
+  background-color: cadetblue;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
