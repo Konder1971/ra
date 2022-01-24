@@ -3,96 +3,112 @@
     "name": "about",
     "path": "/about",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_3146bbbd"
   },
   {
     "name": "blog",
     "path": "/blog",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\blog\\\\index.vue",
-    "chunkName": "pages/blog/index"
+    "chunkName": "pages/blog/index",
+    "_name": "_9fc9bfc0"
   },
   {
     "name": "clients",
     "path": "/clients",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\clients.vue",
-    "chunkName": "pages/clients"
+    "chunkName": "pages/clients",
+    "_name": "_1d767a90"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_05f8d660"
   },
   {
     "name": "expertise",
     "path": "/expertise",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\expertise.vue",
-    "chunkName": "pages/expertise"
+    "chunkName": "pages/expertise",
+    "_name": "_9908277e"
   },
   {
     "name": "filter-1",
     "path": "/filter-1",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\filter-1.vue",
-    "chunkName": "pages/filter-1"
+    "chunkName": "pages/filter-1",
+    "_name": "_d70ee6c8"
   },
   {
     "name": "filter-2",
     "path": "/filter-2",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\filter-2.vue",
-    "chunkName": "pages/filter-2"
+    "chunkName": "pages/filter-2",
+    "_name": "_d6f2b7c6"
   },
   {
     "name": "news",
     "path": "/news",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\news.vue",
-    "chunkName": "pages/news"
+    "chunkName": "pages/news",
+    "_name": "_8b53765a"
   },
   {
     "name": "privacy-policy",
     "path": "/privacy-policy",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\privacy-policy.vue",
-    "chunkName": "pages/privacy-policy"
+    "chunkName": "pages/privacy-policy",
+    "_name": "_4f4c5917"
   },
   {
     "name": "projects",
     "path": "/projects",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\projects\\\\index.vue",
-    "chunkName": "pages/projects/index"
+    "chunkName": "pages/projects/index",
+    "_name": "_62d3f448"
   },
   {
     "name": "request-a-quote",
     "path": "/request-a-quote",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\request-a-quote.vue",
-    "chunkName": "pages/request-a-quote"
+    "chunkName": "pages/request-a-quote",
+    "_name": "_3f5acc82"
   },
   {
     "name": "wwd",
     "path": "/wwd",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\wwd.vue",
-    "chunkName": "pages/wwd"
+    "chunkName": "pages/wwd",
+    "_name": "_53448f98"
   },
   {
     "name": "blog-category",
     "path": "/blog/:category",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\blog\\\\_category.vue",
-    "chunkName": "pages/blog/_category"
+    "chunkName": "pages/blog/_category",
+    "_name": "_f5fb45aa"
   },
   {
     "name": "post-id",
     "path": "/post/:id",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\post\\\\_id\\\\index.vue",
-    "chunkName": "pages/post/_id/index"
+    "chunkName": "pages/post/_id/index",
+    "_name": "_3a0cedf8"
   },
   {
     "name": "projects-id",
     "path": "/projects/:id",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\projects\\\\_id.vue",
-    "chunkName": "pages/projects/_id"
+    "chunkName": "pages/projects/_id",
+    "_name": "_21e268b0"
   },
   {
     "name": "index",
     "path": "/",
     "component": "F:\\\\nuxt\\\\ra\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_50fe9682"
   }
 ]
